@@ -42,6 +42,7 @@ if (!$validator->validate()) {
 | Email          | email
 | Numeric        | number
 | Integer        | integer
+| Float          | float
 | String         | string
 | Boolean        | bool
 | Array          | array
